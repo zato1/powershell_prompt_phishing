@@ -1,4 +1,4 @@
-Place this script on the target machine (for example inside a shared folder) and execute in remotly with PSExec.
+Place this script on the target machine (for example inside a shared folder) and execute it remotly with PSExec.
 
 You can get the $SESSION_ID with `query user` command.
 
